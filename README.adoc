@@ -1,0 +1,12 @@
+= gleif
+// tag::body[]
+
+All static datasets from GLEIF
+
+== Files
+
+* link:dataset/entity-legal-forms.ttl[entity-legal-forms]
+* link:dataset/registration-authorities.ttl[registration-authorities]
+
+// end::body[]
+
